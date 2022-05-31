@@ -62,5 +62,3 @@ function ListingItem({ listing, id, onEdit, onDelete }) {
 }
 
 export default ListingItem
-
-gn
